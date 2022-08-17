@@ -3,7 +3,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Numb666\\OtusComposerPackage\\": "src/"
+      "numb666\\OtusComposerPackage\\": "src/"
     }
   },
   "authors": [
