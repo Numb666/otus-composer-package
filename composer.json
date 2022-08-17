@@ -1,5 +1,5 @@
 {
-  "name": "morozov/php_2022",
+  "name": "morozov_mikhail/php_2022",
   "type": "library",
   "autoload": {
     "psr-4": {
