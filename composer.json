@@ -12,7 +12,5 @@
       "email": "morozik85@inbox.ru"
     }
   ],
-  "require": {
-    "Numb666/otus-composer-package": "^1.0"
-  }
+  "require": {}
 }
