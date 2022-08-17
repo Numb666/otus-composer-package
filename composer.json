@@ -1,5 +1,5 @@
 {
-  "name": "morozov_mikhail/php_2022",
+  "name": "numb666/otus-composer-package",
   "type": "library",
   "autoload": {
     "psr-4": {
