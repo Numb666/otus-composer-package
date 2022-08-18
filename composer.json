@@ -12,5 +12,7 @@
       "email": "morozik85@inbox.ru"
     }
   ],
-  "require": {}
+  "require": {
+    "php": ">=7.1"
+  }
 }
